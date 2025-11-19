@@ -16,13 +16,13 @@ Repeat the pattern shown by the game and try to reach the highest level!
 ### **Screenshots**
 
 ###### Default Screen
-!\[Default Screen](assets/Screenshot-default.png)
+!\[Default Screen](Screenshot-default.png)
 
 ###### Game In Action
-!\[Game Play](assets/Screenshot-playing.png)
+!\[Game Play](Screenshot-playing.png)
 
 ###### Game Over Screen
-!\[Game Over](assets/Screenshot-gameover.png)
+!\[Game Over](Screenshot-gameover.png)
 
 
 ### **Technology Used**
@@ -52,3 +52,4 @@ Repeat the pattern shown by the game and try to reach the highest level!
 * Difficulty modes
 * Background music toggle
 * Better animations
+
